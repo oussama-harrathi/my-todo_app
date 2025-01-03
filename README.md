@@ -1,38 +1,42 @@
-# create-svelte
+# **To-Do App ✅**  
+*A simple and efficient task management application.*
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+---
 
-## Creating a project
+## **About the Project**  
+The **To-Do App** is designed to help users manage their daily tasks effectively. Users can create tasks, mark them as completed with a strikethrough effect using a checkbox, and delete tasks when no longer needed.
 
-If you're seeing this, you've probably already done this step. Congrats!
+This project was developed in **2 days** using **Svelte** and **SvelteKit**.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+---
 
-## Developing
+## **Features 🚀**  
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### **Task Management**  
+- **Create Tasks**: Easily add new tasks to your list.  
+- **Mark as Done**: Use a checkbox to mark tasks as completed, adding a strikethrough effect.  
+- **Delete Tasks**: Remove tasks that are no longer needed.
 
-```bash
-npm run dev
+---
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## **Tech Stack 💻**  
+- **Frontend**: Svelte, SvelteKit  
 
-## Building
+---
 
-To create a production version of your app:
+## **Demo 🎥**  
+Click the link below to watch the demo:  
+[![Watch the Demo](https://img.youtube.com/vi/VVlNoEnpFPk/maxresdefault.jpg)](https://youtu.be/VVlNoEnpFPk)
 
-```bash
-npm run build
-```
+---
 
-You can preview the production build with `npm run preview`.
+## **Contributions 🤝**  
+Contributions are currently closed as this was a short-term project, but feedback is always appreciated!  
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+---
+
+## **License 📄**  
+This project is licensed under the **MIT License**.
+
+---
